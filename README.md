@@ -1,4 +1,4 @@
-# resume
+# LATEX FORM RESUME
 \documentclass[a4paper,9pt]{article}
 \usepackage[empty]{fullpage}
 \usepackage{titlesec}
